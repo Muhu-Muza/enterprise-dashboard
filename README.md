@@ -1,5 +1,5 @@
 # Enterprise Dashboard     
-This is a dashboard built in react using the next.js framework   
+This is a dashboard built in react using the next.js framework and styled using tailwind.css      
 
 ## Getting Started     
 
